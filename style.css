@@ -1,0 +1,125 @@
+nav ul{
+    font-family: 'Roboto', sans-serif;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+   align-items: center;
+}
+header li a{
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 15pt;
+}
+h1{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: black;
+    font-size: 120pt;
+    letter-spacing: -18pt;
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 0%;
+   
+
+}
+
+section.hero{
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: black;
+}
+section.hero img{
+    max-width: 100%;
+}
+h2{
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+    font-size: 60pt;
+
+   
+    
+}
+section.our{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 16pt;
+    margin-top: 10%;
+    padding-left: 15%;
+    padding-right: 15%;
+    text-align: center;
+
+}
+section.who h2{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: rgb(253, 130, 114);
+    text-align: left; 
+    margin-top: 5%;
+    margin-bottom: 0%;
+    padding: 2%;
+    font-size: 60pt;
+}
+ section.br{
+
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 12pt;
+    text-align: center;
+    color:white;
+    background-color: black;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 2%;
+    padding: 2%;
+    padding-top: 0%;
+    margin-bottom:4% ;
+ }
+
+ section.info{
+    background-color: rgb(222, 222, 222);
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12pt;
+    padding: 2%;
+ }
+footer{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 10pt;
+    text-align: center;
+    background-color: rgb(253, 130, 114);
+    padding: 1%;
+}
+
+section.illustrazioni div{
+    display: flex;
+    padding: 1%;
+    justify-content: space-between;
+
+}
+section.illustrazioni img{
+   
+}
+
+section.bio {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16pt;
+    display: flex;
+    padding: 2%;
+    justify-content: space-between;
+    gap: 5%;
+}
+
+section.about{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: rgb(253, 130, 114);
+    text-align: center; 
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding: 2%;
+}
+section.weare{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16pt;
+    padding: 2%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    text-align: center; 
+}
